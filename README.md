@@ -3,7 +3,7 @@
 </p>
 <div align="center">
         <p style="font-weight: bold;">
-            Hi, I'm Zfans, undergraduate student.
+            Hi, I'm Zfans 👋
         </p>
     </div>
     <div>
