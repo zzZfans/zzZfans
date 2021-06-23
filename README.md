@@ -1,4 +1,7 @@
- <div align="center">
+<p align="center">
+  <img align="center" src="https://github.com/zzZfans/zzZfans/raw/master/developer.gif"/>
+</p>
+<div align="center">
         <p style="font-weight: bold;">
             Hi, I'm Zfans, undergraduate student.
         </p>
