@@ -3,7 +3,7 @@
 </p>
 <div align="center">
         <p style="font-weight: bold;">
-            👋 Hi, I'm 凡森Zfans, an undergraduate student from China, majoring Computer Science. 🚀
+            👋 Hi, I'm 凡森Zfans (zzZfans), an undergraduate student from China, majoring Computer Science. 🚀
         </p>
     </div>
     <div>
